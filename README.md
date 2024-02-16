@@ -1,6 +1,6 @@
 # fix-zip
 
-![Incompatible Archive:](https://github.com/sminozzi/fix-zip/blob/main/incompatible-file.png).
+![Incompatible Archive:](https://github.com/sminozzi/fix-zip/blob/main/incompatible-file.png)
 
 Fix 'Incompatible Archive' when installing a new WordPress plugin from a zip file.
 
