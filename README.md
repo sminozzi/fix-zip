@@ -9,3 +9,6 @@ Our free plugin fixes it.  Install, and you'll be updating plugins in no time!
 Download for free:
 [Download Plugin For Free Now](https://wptoolsplugin.com/fix-the-wordpress-incompatible-archive-error/)
 
+![Incompatible Archive:](https://github.com/sminozzi/fix-zip/blob/main/incompatible-file.png).
+
+
